@@ -1,5 +1,5 @@
 # Please follow the format Student 1: Name of student (Student ID)
-Student 1:
-Student 2:
-Student 3:
+Student 1: Kyle Kim (1002406247)
+Student 2: Yan tong (1002639585)
+Student 3: Ainka Pierre (996355812)
 Student 4:
